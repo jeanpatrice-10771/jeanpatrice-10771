@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeanpatrice-10771
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning computer Technology
+- 🌱 I’m currently learning computer Technology at the Technical University of Kenya.
 - 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me via email,  jeanpatricemuvunyi@gmail.com
 - 😄 Pronouns: Mr. JRevealed
